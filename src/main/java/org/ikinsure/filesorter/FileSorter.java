@@ -11,7 +11,7 @@ import java.util.Set;
 /**
  * Program moves content from source to destination and sorts by last modified date
  */
-public class Main {
+public class FileSorter {
 
     private static final String SEPARATOR = FileSystems.getDefault().getSeparator();
 
