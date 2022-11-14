@@ -1,6 +1,7 @@
 ## File Sorter in Java
 
-Example script usage - images sorting.
+Program I use to automate image sorting.
+Example script usage below.
 
 Folder source:
 ```
